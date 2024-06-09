@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://www.github.com/ripavoid" target="_blank" rel="noreferrer"><img
 
-<!--
-**ripavoid/ripavoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+<a href='https://discordapp.com/users/825178146797518881'><img align='center' alt='discord-stats' src='https://api.discord-status.me/825178146797518881?nitro&boost=4&gradient=%231e0b1a%2C%23000000%2C%23000000%2C%23160316'></img></a>
+<br /><br/>
+<details>
+  <summary>Coding stats</summary>
+  
+  [![Coding-Time](https://github-readme-stats.vercel.app/api/wakatime?username=ripavoid&layout=compact&theme=radical)](https://wakatime.com/@ripavoid)
+</details>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://ripavo.id/
