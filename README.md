@@ -5,7 +5,7 @@
 <br /><br/>
 <details>
   <summary>Coding stats</summary>
-  [![Coding-Time](https://github-readme-stats.vercel.app/api/wakatime?username=ripavoid&layout=compact&theme=radical)](https://wakatime.com/@ripavoid)
+  [![Coding-Time](https://github-readme-stats.vercel.app/api/wakatime?username=ripavoid&layout=compact&theme=radical)](https://wakatime.com/@ripavoid)]
 </details>
 </div>
 
