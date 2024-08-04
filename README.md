@@ -13,15 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 106 hrs 53 mins
+Total Time: 111 hrs 29 mins
 
-Python            34 hrs 14 mins  ████████░░░░░░░░░░░░░░░░░   31.78 %
-Svelte            23 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
-Lua               18 hrs 42 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-TypeScript        13 hrs 49 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-JavaScript        6 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Text              5 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other             52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python            35 hrs 3 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Svelte            24 hrs 17 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
+Lua               18 hrs 43 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+TypeScript        15 hrs 30 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+JavaScript        6 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Text              5 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+HTML              54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other             52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
